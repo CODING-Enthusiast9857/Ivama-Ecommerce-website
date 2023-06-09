@@ -5,9 +5,6 @@
 - It is an ecommerce website 
 - It is specially designed for buying our needed products from anywhere in the world.
 
-# 🚀 Appearance 
-<img src="assets/website.png" width="100%">
-
 # 📝 Licensed by 
 <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list">
 
