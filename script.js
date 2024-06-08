@@ -13,3 +13,7 @@ if(close){
         nav.classList.remove('active');
     })
 }
+
+function navigateToFile() {
+    window.location.href = 'shop.html'; 
+}
